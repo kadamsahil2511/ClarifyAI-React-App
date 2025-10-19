@@ -7,19 +7,19 @@ const teamMembers = [
     avatar: 'https://github.com/kadamsahil2511.png',
   },
   {
+    name: 'Aachal Gupta',
+    github: 'AachalGupta411',
+    avatar: 'https://github.com/AachalGupta411.png',
+  },
+  {
     name: 'Pratima Vanakhade',
     github: 'pratima0809',
     avatar: 'https://github.com/pratima0809.png',
   },
   {
-    name: 'Sahil Kadam',
-    github: 'kadamsahil2511',
-    avatar: 'https://github.com/kadamsahil2511.png',
-  },
-  {
-    name: 'Sahil Kadam',
-    github: 'kadamsahil2511',
-    avatar: 'https://github.com/kadamsahil2511.png',
+    name: 'Armaan Mulani',
+    github: 'ArmaanM08',
+    avatar: 'https://github.com/ArmaanM08.png',
   },
 ];
 
