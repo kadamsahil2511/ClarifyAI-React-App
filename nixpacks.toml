@@ -1,0 +1,7 @@
+# nixpacks.toml
+
+[build]
+command = "npm run build"
+
+[start]
+command = "npm install -g serve && serve -s dist"
